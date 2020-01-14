@@ -1,4 +1,4 @@
-TeamTreehouse-OOP_Game_Show_App-Unit_4
+TeamTreehouse-OOP_Game_Show_App-Unit_4_Project
 This is my Unit 4 TreeHouse Tech Degree Project
 
 Getting Started
